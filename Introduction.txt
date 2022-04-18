@@ -1,0 +1,14 @@
+Holiday Manager
+---------------
+What would you like to do?
+
+1. Add a holiday
+2. Remove a holiday
+3. Count the holidays
+4. View the holidays in a week
+5. Grab holidays from online
+6. Get the Weather for the current week
+7. Read in a json file with holidays
+8. Save the holidays as a json file
+9. View the current week
+10. See each holiday and what week it's in
