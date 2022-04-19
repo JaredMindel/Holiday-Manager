@@ -1,6 +1,10 @@
 {
   "holidays": [
     {
+      "_name": "jeff",
+      "_date": "1111-11-11 00:00:00"
+    },
+    {
       "_name": "New Year's Day",
       "_date": "2020-01-01 00:00:00"
     },
@@ -10459,6 +10463,34 @@
     {
       "_name": "New Year's Eve",
       "_date": "2024-12-31 00:00:00"
+    },
+    {
+      "name": "Margaret Thatcher Day",
+      "date": "2021-01-10"
+    },
+    {
+      "name": "World Sketchnote Day",
+      "date": "2021-01-11"
+    },
+    {
+      "name": "Zanzibar Revolution Day",
+      "date": "2021-01-12"
+    },
+    {
+      "name": "National Rubber Ducky Day",
+      "date": "2021-01-13"
+    },
+    {
+      "name": "Tamil Thai Pongdal Day",
+      "date": "2021-01-14"
+    },
+    {
+      "name": "National Bagel Day",
+      "date": "2021-01-15"
+    },
+    {
+      "name": "Signing of the Peace Accords",
+      "date": "2021-01-16"
     }
   ]
 }
