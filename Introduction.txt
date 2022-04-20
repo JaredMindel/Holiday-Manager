@@ -11,5 +11,5 @@ What would you like to do?
 7. Read in a json file with holidays.
 8. Save the holidays as a json file.
 9. View the current week.
-10. Pick a week and see the holidays in it.
+10. See all holidays in a week.
 11. Exit.
