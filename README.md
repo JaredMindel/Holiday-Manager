@@ -26,14 +26,13 @@ This is where the magic happens. The main run is really the testing sight, where
   2. Remove a holiday
   3. Count the holidays
   4. View the holidays
-  5. Scrape holidays from online
-  6. Get the Weather for the current week
+  5. Grab holidays from online
+  6. Get the weather for the current week
   7. Read in a json file with holidays
   8. Save the holidays as a json file
   9. View the current week
-  10. See each holiday and what week it's in
+  10. See all holidays in a week.
   11. Exit the program
-  12. Go back to the main menu
 
 Let's go through each option:
 
@@ -46,6 +45,5 @@ Let's go through each option:
   7. Read a json file: This command lets you read in an API file with holidays. Simply give the file name - without the json file type at the end - and it'll work. Of          course, this file has to be in the same folder as the program itself and needs to be in json. 
   8. Save the file: Basically this saves the innerHolidays list as Holiday_List_Output.json. No inputs required!
   9. View the current week: This will let you view the current week; it will ask if you want to see the weather, but unfortunately that doesn't work.
-  10. View the holidays in a week: this shows each holiday and what week it is in, given a week between 1 and 53 (this is odd, yes, but this is how these dates work.             Sometimes the week will carry over into what we consider to be the next year). The user is prompted for a week number and a year between 2020 and 2024, and it will         print any holidays that fall in that range in the United States.
+  10. See all holidays in a week.: this shows each holiday and what week it is in, given a week between 1 and 53 (this is odd, yes, but this is how these dates work.              Sometimes the week will carry over into what we consider to be the next year). The user is prompted for a week number and a year between 2020 and 2024, and it will          print any holidays that fall in that range in the United States.
   11. Exit. If the user has not saved the file, it will ask if they want to leave with a warning that the file is unsaved. If the file is saved, that warning won't appear,       but they'll still be asked if they want to leave. 
-  12. See the main menu again. This should be self-explanatory.
